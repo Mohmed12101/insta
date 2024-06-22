@@ -93,7 +93,7 @@ iD1 = '1761998181'
 
 nnn = random.choice([R,X,F,B,K,V])
 good_hot,bad_hot,good_ig,bad_ig,check,mj,ids=0,0,0,0,0,0,[]
-tok = input('• {}TOKEN{} ♪ {}TELE : {}'.format(B,C,V,K))
+tok = input('• {}TOKEuuN{} ♪ {}TELE : {}'.format(B,C,V,K))
 print("\r")
 iD = input('• {}ID{} ♪ {}TELE : {}'.format(B,C,V,K))
 E=f"""
